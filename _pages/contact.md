@@ -34,7 +34,7 @@ permalink: /contact/
         <!-- Form actions -->
         <div class="form-group">
             <div class="col-md-12">
-            <button type="submit" class="btn btn-warning">Submit</button>
+            <button type="submit" class="btn btn-primary">Submit</button>
             </div>
         </div>
         </fieldset>
