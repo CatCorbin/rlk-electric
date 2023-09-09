@@ -5,7 +5,7 @@ permalink: /contact/
 
 ## Contact us
 
-<div class="row py-4">
+<!--<div class="row py-4">
     <div class="col-md-12">
     <div class="well well-sm">
         <form class="form-horizontal" action="#" method="post">
